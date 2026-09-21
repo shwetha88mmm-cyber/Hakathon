@@ -1,0 +1,11 @@
+{
+  "name": "trusttrip-ai-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && python main.py",
+    "test": "python integration/test_pipeline.py"
+  }
+}

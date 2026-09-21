@@ -1,0 +1,22 @@
+# Node / React
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Python
+__pycache__/
+*/__pycache__/
+ai/__pycache__/
+backend/__pycache__/
+integration/__pycache__/
+*.pyc
+*.pyo
+venv/
+backend/venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
